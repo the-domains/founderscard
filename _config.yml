@@ -1,0 +1,23 @@
+name: FoundersCard
+favicon: null
+layout_spectrum: 0.6314309558365494
+typography_spectrum: 0.24782029585912824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9966465679462999
+  lightness: 0.001963039394468069
+  saturation: 0.8279573093168437
+  rhythmicContrast: 0.7448566276580095
+purpose: []
